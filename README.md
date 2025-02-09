@@ -16,3 +16,5 @@ Feel free to check out my repositories and connect with me! 🚀
 
 ⚡ Hobbies: Tennis, listening and playing music (Shoegaze and post-punk specially), read and draw.
 
+### You can follow me :D (I post some pictures or other things related to my hobbies)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/tomas_vera_27/)) 
