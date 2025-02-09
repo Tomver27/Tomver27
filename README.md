@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Tomás Vera.
-I'm currently studying Systems Engineering at Universidad Piloto de Colombia, and I'm in my 7th semester.
+I'm currently studying Systems Engineering at [Universidad Piloto de Colombia](https://www.unipiloto.edu.co), and I'm in my 7th semester.
 
 I like everything related to Math, Operating Systems, and Front-end development.
 
