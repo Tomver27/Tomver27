@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tomás Vera.
+## Hi there 👋 I'm [Tomás Vera](https://tomver27.github.io/Web-Page/).
 I'm currently studying Systems Engineering at [Universidad Piloto de Colombia](https://www.unipiloto.edu.co), and I'm in my 7th semester.
 
 I like everything related to Math, Operating Systems, and Front-end development.
