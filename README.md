@@ -7,7 +7,7 @@ Always looking for new challenges.
 
 Feel free to check out my repositories and connect with me! 🚀
 
-🌱 I’m currently learning to develop applications for convergent devices.
+🌱 I’m currently learning to develop web applications with React.
 
 📫 Contact: tomasv0127@gmail.com
 
