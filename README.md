@@ -11,8 +11,6 @@ Feel free to check out my repositories and connect with me! 🚀
 
 📫 Contact: tomasv0127@gmail.com
 
-😄 Pronouns: He / Him / His
-
 ⚡ Hobbies: Tennis, [listening](https://open.spotify.com/user/31bwy5xvrzbkka7rxwhqp6gfjs2q?si=58409f2667364703) to and playing music (especially Shoegaze and Post-Punk), reading, and drawing.
 
 ## You can follow me :D (I post pictures and other things related to my hobbies).
